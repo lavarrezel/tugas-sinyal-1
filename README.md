@@ -9,7 +9,7 @@ print("NRP: 5009211062")
 
 ### B. Hasil dan Script di Spyder
 
-Python Scipt: https://github.com/lavarrezel/tugas-sinyal-1/blob/main/Tugas%201%20PSO%20.py
+Python Script: https://github.com/lavarrezel/tugas-sinyal-1/blob/main/Tugas%201%20PSO%20.py
 
 ![image](B.png)
 
