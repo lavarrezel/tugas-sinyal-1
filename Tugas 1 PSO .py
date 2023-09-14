@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 14 07:08:16 2023
-
-@author: ACER
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import signal
